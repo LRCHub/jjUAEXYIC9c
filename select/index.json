@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Banquet",
+  "base_artist": "Chevon",
+  "createdAt": "2025-12-12T11:46:27.514156Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Banquet",
+      "artist": "Audience",
+      "has_synced": false,
+      "path": "select/01_Banquet_Audience.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Banquet On the Water",
+      "artist": "The Sallyangie",
+      "has_synced": false,
+      "path": "select/02_Banquet_On_the_Water_The_Sallyangie.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Banquet",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/03_Banquet_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Banquet (Boys Noize Remix)",
+      "artist": "Bloc Party",
+      "has_synced": false,
+      "path": "select/04_Banquet_(Boys_Noize_Remix)_Bloc_Party.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Banquet (Boys Noize Vox mix)",
+      "artist": "Bloc Party",
+      "has_synced": false,
+      "path": "select/05_Banquet_(Boys_Noize_Vox_mix)_Bloc_Party.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Banquet",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/06_Banquet_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Banquet - Phones Disco Edit",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/07_Banquet_-_Phones_Disco_Edit_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Banquet (Phones disco edit)",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/08_Banquet_(Phones_disco_edit)_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Le Banquet",
+      "artist": "C2C feat. Tigerstyle, Netik, Rafik, Vajra & Kentaro",
+      "has_synced": true,
+      "path": "select/09_Le_Banquet_C2C_feat._Tigerstyle,_Netik,_Rafik,_Vajra_&_Kentaro.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Le Banquet (Feat. Kentaro, Netik, Rafik, Tigerstyle & Vajra)",
+      "artist": "C2C",
+      "has_synced": true,
+      "path": "select/10_Le_Banquet_(Feat._Kentaro,_Netik,_Rafik,_Tigerstyle_&_Vajra)_C2C.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Interlude III: At the Banquet",
+      "artist": "Kamelot",
+      "has_synced": false,
+      "path": "select/11_Interlude_III__At_the_Banquet_Kamelot.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Interlude III (At the Banquet)",
+      "artist": "Kamelot",
+      "has_synced": true,
+      "path": "select/12_Interlude_III_(At_the_Banquet)_Kamelot.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Le Banquet",
+      "artist": "C2C",
+      "has_synced": true,
+      "path": "select/13_Le_Banquet_C2C.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Banquet",
+      "artist": "Chevon",
+      "has_synced": false,
+      "path": "select/pl_01_Banquet_Chevon.txt"
+    }
+  ]
+}
